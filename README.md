@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadsalih7
-- 👀 I’m interested in Node.js
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in Node.js Python & odoo
+- 🌱 I’m currently learning Odoo
 - 📫 How to reach me : on Twitter on @ahmadsalih7
 
 <!---
